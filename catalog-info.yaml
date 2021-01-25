@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ITMP Basic test
+  description: Just a test
+spec:
+  type: website
+  lifecycle: experimental
+  owner: rkretzschmarkaiser
